@@ -1,3 +1,4 @@
+# digit recognition using logistic regression 
 from PIL import Image
 import csv
 import numpy as np 
