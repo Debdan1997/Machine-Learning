@@ -1,1 +1,1 @@
-# Machine-Learning
+As I have started to learn the basics of machine learning, I will maintain this repository to have important programs implementing the algorithms that I have learnt. This will mainly contain sollutions to Andrew Ng's course on coursera and also some other problems in python3. Link to datasets are provided if possible
