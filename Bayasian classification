@@ -1,0 +1,2 @@
+This is an implementation of the Bayasian classification for spam/non spam classification of sms. Data collected from "https://www.kaggle.com/uciml/sms-spam-collection-dataset"
+gets 97-98% accuracy with a 7:3 split of train vs test split from randomly shuffled sms data
